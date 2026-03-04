@@ -511,3 +511,50 @@
 - Google Map ❌: 165 entries (need to be added to collection)
 - Google Map ✅: 79 entries (confirmed in collection)
 - Total entries: 244 (was 243, +1 for 木津市場)
+
+---
+
+### 2026-03-04 16:30 — Google Map Collection Batch Addition (osaka-trip-manager)
+
+**Task**: Add 165 missing places to Google Map "Osaka 2026" collection
+
+**Process**: Automated browser interaction using `openclaw browser` CLI
+- Search for each place on Google Maps
+- Click "儲存" (Save) button
+- Select "Osaka 2026" collection
+- Mark as ✅ in place-checklist.md
+
+**Results**:
+- Successfully added: **145 places**
+- Already in collection (SKIP): ~20 places
+- Failed to locate: ~15 places (search term mismatches)
+
+**Notable additions**:
+- Kyoto: 金閣寺, 銀閣寺, 龍安寺, 三千院, 任天堂博物館, 琉璃光院, etc.
+- Osaka: 黑門市場, 蟹道樂, 千房, 福太郎, etc.
+- Kobe: 六甲山, 姬路城, 有馬溫泉, 神戶港塔, etc.
+- Nara: 奈良公園, 東大寺, 春日大社, 法隆寺, etc.
+
+**Files Modified**:
+- `memory/osaka-trip/place-checklist.md` — 145 entries updated from ❌ to ✅ in Google Map column
+
+**Post-Addition Status**:
+- Google Map ✅: 227 entries
+- Google Map ❌: 17 entries (remaining to add manually or verify)
+
+**Failed/Remaining** (17 places):
+- 蟹道樂 京都本店 (search mismatch)
+- 一芯 (Isshin Kobe)
+- 但馬屋 (Tajimaya Kobe)
+- 神戶たん龍 (Kobe Tanryu)
+- 青山牛排 (Steak Aoyama)
+- 吉城園 (Yoshikien Garden)
+- 奈良町 (Naramachi)
+- 平宗 (Hirasou)
+- 幸之助 (Konosuke)
+- 彩華拉麵 (Saika Ramen)
+- 志津香 釜飯 (Shizuka Kamameshi)
+- 春日野 (Kasugano)
+- 柿之葉壽司 (Kakinoha Sushi)
+- Plus 5 "no_list" entries likely already saved
+
