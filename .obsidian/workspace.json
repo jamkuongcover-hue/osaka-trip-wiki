@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Osaka/Shopping/Super 玉出超市 (Super Tamade).md",
+                "file": "Osaka/Hotels/osaka-hotels-catalog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super 玉出超市 (Super Tamade)"
+              "title": "osaka-hotels-catalog"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Osaka/Shopping/Super 玉出超市 (Super Tamade).md",
+                "file": "Osaka/Hotels/osaka-hotels-catalog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Super 玉出超市 (Super Tamade)"
+              "title": "Backlinks for osaka-hotels-catalog"
             }
           },
           {
@@ -170,51 +170,51 @@
   },
   "active": "5c66abaff9e8b8e2",
   "lastOpenFiles": [
-    "Kobe/README.md",
-    "Omihachiman/README.md",
-    "Koka/README.md",
-    "Osaka/Shopping/osaka-shopping-catalog.md",
+    "assets/osaka/attractions/dotonbori-glico.webp",
+    "assets/nara/Restaurants/surugaya.webp",
+    "assets/nara/Restaurants/shizuka-kamameshi.webp",
+    "assets/nara/Restaurants/motoyoshigami.webp",
+    "assets/nara/Attractions/todaiji.webp",
+    "assets/nara/Attractions/nara-park.webp",
+    "assets/nara/Attractions/nara-park-deer.webp",
+    "assets/nara/Attractions/kasuga-taisha.webp",
+    "Osaka/Shopping/OS Drug (オーエスドラッグ).md",
+    "Osaka/Shopping/LAMU 超市 (LAMU Konohana).md",
+    "Osaka/Restaurants/中華蕎麦 葛 (Chuka Soba Kuzu/Kazura).md",
+    "Osaka/Restaurants/麺に光を 別邸 (Ramen Menhika Branch).md",
+    "Osaka/Restaurants/鮨處 黑杉 (Sushi-dokoro Kurosugi).md",
+    "Osaka/Restaurants/鮨 よつば (Sushi Yotsuba).md",
+    "Osaka/Restaurants/鮨 みのき (Sushi Minoki).md",
+    "Osaka/Restaurants/鐵板燒 逢坂 (Teppanyaki Ousaka).md",
+    "Osaka/Restaurants/鐵板燒 みなみ (Teppanyaki Minami).md",
+    "Osaka/Restaurants/金久右衛門 (Kingemon Ramen).md",
+    "Osaka/Restaurants/蟹道樂 網元本館 (Kani Doraku Amimoto).md",
+    "Osaka/Restaurants/蟹道樂 (Kani Doraku).md",
+    "Osaka/Restaurants/蟹家 (Kaniya Osaka).md",
+    "Osaka/Restaurants/薩摩 牛之藏 (Satsuma Ushinokura).md",
+    "Osaka/Restaurants/肉匠 なか田 (Nikusyo Nakata).md",
+    "Osaka/Restaurants/総大醤 (Soudaisho).md",
+    "Osaka/Restaurants/福太郎 (Fukutaro).md",
+    "Osaka/Restaurants/神戶牛 和之宮 (Kobe Beef Wanomiya).md",
+    "Osaka/Restaurants/燒肉 きたん 法善寺 (Yakiniku Kitan Hozenji).md",
+    "Osaka/Restaurants/燒肉 います (Yakiniku Imai).md",
+    "Osaka/Restaurants/燒肉 TORAJI (Yakiniku Toraji - Hilton).md",
+    "Osaka/Restaurants/焼肉ホルモン 万千 (Yakiniku Horumon Mansen).md",
+    "Osaka/Restaurants/炙屋 (Aburiya).md",
+    "Osaka/Restaurants/本格手打 たけうちうどん店 (Takeuchi Udonten).md",
+    "Osaka/Restaurants/家和らぎ (Iwayuragi).md",
+    "Osaka/Restaurants/中華蕎麦 葛 (Chuka Soba Kuzu",
+    "Nara/Attractions/東大寺 三月堂 (Todai-ji Sangatsu-do ",
     "Osaka/租車物流研究-(Car-Rental-Logistics)-og-image.webp",
-    "chain-stores-guide.md",
-    "working-log.md",
     "working-log-og-image.webp",
-    "README.md",
     "place-checklist-og-image.webp",
-    "place-checklist.md",
-    "osaka-trip-plan-og-image.webp",
-    "master-checklist-og-image.webp",
-    "MAP_OPERATION_HANDBOOK.md",
-    "index-og-image.webp",
-    "index.md",
-    "Osaka/osaka-main-catalog-og-image.webp",
-    "staging-assets/8th-sea-oyster/8th-sea-oyster-1.png",
     "working-log.html",
     "tags/index.html",
     "tags",
     "static/giscus/light.css",
     "static/giscus/dark.css",
-    "static/og-image.png",
-    "static/icon.png",
     "static/giscus",
     "static/contentIndex.json",
-    "static",
-    "sitemap.xml",
-    "prescript.js",
-    "Osaka/Shopping/BRULEE MERIZE Merchee (ブリュレメリゼ・メルチー).md",
-    "Osaka/Hotels/THE BASEMENT HOTEL 大阪本町 (THE BASEMENT HOTEL Osaka Honmachi).md",
-    "osaka-trip-plan.md",
-    "Osaka/Attractions/osaka-attractions-catalog.md",
-    "Osaka/Shopping/日本夾公仔技巧 (UFO Catcher Skills).md",
-    "Osaka/Shopping/Super 玉出超市 (Super Tamade).md",
-    "Osaka/osaka-main-catalog.md",
-    "Osaka/Attractions/LOPIA (ロピア) 超市.md",
-    "Osaka/Attractions/道頓堀 (Dotonbori).md",
-    "Osaka/Attractions/萬博紀念公園 (Expo '70 Commemorative Park).md",
-    "Osaka/Attractions/黑門市場 (Kuromon Market).md",
-    "Osaka/Attractions/通天閣 (Tsutenkaku).md",
-    "Osaka/Attractions/堺市研究 (Sakai Study).md",
-    "Osaka/Attractions/勝尾寺 (Katsuo-ji).md",
-    "Osaka/Attractions/阿倍野展望台 (Abeno Harukas).md",
-    "Osaka/Attractions/阿倍野 Q's Mall (Abeno Q's Mall).md"
+    "static"
   ]
 }
