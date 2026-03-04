@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Osaka/Hotels/osaka-hotels-catalog.md",
+                "file": "Osaka/Attractions/道頓堀 (Dotonbori).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "osaka-hotels-catalog"
+              "title": "道頓堀 (Dotonbori)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Osaka/Hotels/osaka-hotels-catalog.md",
+                "file": "Osaka/Attractions/道頓堀 (Dotonbori).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for osaka-hotels-catalog"
+              "title": "Backlinks for 道頓堀 (Dotonbori)"
             }
           },
           {
@@ -170,6 +170,27 @@
   },
   "active": "5c66abaff9e8b8e2",
   "lastOpenFiles": [
+    "Osaka/Namba-Shinsaibashi.md",
+    "Osaka/Restaurants/道頓堀 (Dotonbori).md",
+    "Osaka/Attractions/道頓堀 (Dotonbori).md",
+    "Osaka/Attractions/道頓堀サウナ (Dotonbori Sauna).md",
+    "Osaka/osaka-main-catalog.md",
+    "Osaka/Tennoji-Area.md",
+    "Osaka/Umeda-Area.md",
+    "Osaka/Attractions/osaka-attractions-catalog.md",
+    "Osaka/README.md",
+    "index.md",
+    "README.md",
+    "Nara/README.md",
+    "Kyoto/README.md",
+    "Kobe/Arima-Onsen.md",
+    "Kobe/Sannomiya-Area.md",
+    "Kyoto/Station-Area.md",
+    "Kyoto/Arashiyama-Area.md",
+    "Kyoto/Gion-Area.md",
+    "Osaka/Bay-Area.md",
+    "Osaka/Attractions/心齋橋 (Shinsaibashi).md",
+    "Osaka/Hotels/osaka-hotels-catalog.md",
     "assets/osaka/attractions/dotonbori-glico.webp",
     "assets/nara/Restaurants/surugaya.webp",
     "assets/nara/Restaurants/shizuka-kamameshi.webp",
@@ -183,31 +204,10 @@
     "Osaka/Restaurants/中華蕎麦 葛 (Chuka Soba Kuzu/Kazura).md",
     "Osaka/Restaurants/麺に光を 別邸 (Ramen Menhika Branch).md",
     "Osaka/Restaurants/鮨處 黑杉 (Sushi-dokoro Kurosugi).md",
-    "Osaka/Restaurants/鮨 よつば (Sushi Yotsuba).md",
-    "Osaka/Restaurants/鮨 みのき (Sushi Minoki).md",
-    "Osaka/Restaurants/鐵板燒 逢坂 (Teppanyaki Ousaka).md",
-    "Osaka/Restaurants/鐵板燒 みなみ (Teppanyaki Minami).md",
-    "Osaka/Restaurants/金久右衛門 (Kingemon Ramen).md",
-    "Osaka/Restaurants/蟹道樂 網元本館 (Kani Doraku Amimoto).md",
-    "Osaka/Restaurants/蟹道樂 (Kani Doraku).md",
-    "Osaka/Restaurants/蟹家 (Kaniya Osaka).md",
-    "Osaka/Restaurants/薩摩 牛之藏 (Satsuma Ushinokura).md",
-    "Osaka/Restaurants/肉匠 なか田 (Nikusyo Nakata).md",
-    "Osaka/Restaurants/総大醤 (Soudaisho).md",
-    "Osaka/Restaurants/福太郎 (Fukutaro).md",
-    "Osaka/Restaurants/神戶牛 和之宮 (Kobe Beef Wanomiya).md",
-    "Osaka/Restaurants/燒肉 きたん 法善寺 (Yakiniku Kitan Hozenji).md",
-    "Osaka/Restaurants/燒肉 います (Yakiniku Imai).md",
-    "Osaka/Restaurants/燒肉 TORAJI (Yakiniku Toraji - Hilton).md",
-    "Osaka/Restaurants/焼肉ホルモン 万千 (Yakiniku Horumon Mansen).md",
-    "Osaka/Restaurants/炙屋 (Aburiya).md",
-    "Osaka/Restaurants/本格手打 たけうちうどん店 (Takeuchi Udonten).md",
-    "Osaka/Restaurants/家和らぎ (Iwayuragi).md",
     "Osaka/Restaurants/中華蕎麦 葛 (Chuka Soba Kuzu",
     "Nara/Attractions/東大寺 三月堂 (Todai-ji Sangatsu-do ",
     "Osaka/租車物流研究-(Car-Rental-Logistics)-og-image.webp",
     "working-log-og-image.webp",
-    "place-checklist-og-image.webp",
     "working-log.html",
     "tags/index.html",
     "tags",
