@@ -558,3 +558,36 @@
 - 柿之葉壽司 (Kakinoha Sushi)
 - Plus 5 "no_list" entries likely already saved
 
+
+---
+
+### Batch 40-42: Google Map Collection — Massive Add (2026-03-04 15:44–17:05 HKT)
+
+**Task:** Add 165 missing places to Google Map "Osaka 2026" collection.
+
+**Method:** Browser automation via `openclaw browser` CLI (CDP port 18800). Search each place on Google Maps → Click 儲存 → Select "Osaka 2026" collection.
+
+**Results:**
+- **Collection count**: 85 → 243 places (confirmed via browser snapshot)
+- **Successfully added**: 163 places across Osaka, Kyoto, Kobe, and Nara regions
+- **Already in collection**: 11 places (reported as FAIL by script but verified as ✅ via browser)
+- **Skipped (non-mappable)**: 2 entries (住宿選擇研究, 奈良公園無障礙指南)
+- **place-checklist.md**: Google Map column updated from 79 ✅ / 165 ❌ → 242 ✅ / 2 ❌ (non-mappable)
+- **Task 1 (remove 京都勝牛 AIRSIDE HK)**: Not completed — browser could not reliably navigate to the collection list view to remove individual items. The HK branch remains in the collection.
+- **Task 2 (add correct 京都勝牛 京都)**: ✅ Completed — Kyoto Katsugyu added to collection.
+
+**Files Modified:**
+- `/Users/jamdow/.openclaw/workspace/memory/osaka-trip/place-checklist.md` — Google Map column bulk update
+- `/Users/jamdow/.openclaw/workspace/memory/osaka-trip/working-log.md` — this entry
+
+**Batch Breakdown:**
+| Batch | Count | Region | Status |
+|-------|-------|--------|--------|
+| 40 | 24 | Osaka Restaurants | ✅ All OK |
+| 40 | 15 | Kyoto Attractions | ✅ All OK |
+| 40 | 22 | Kyoto Restaurants | ✅ All OK (京都勝牛 added) |
+| 41 | 23 | Kobe Attractions | ✅ All OK |
+| 41 | 18 | Kobe Restaurants | ✅ All OK (some needed retry) |
+| 42 | 32 | Nara Attractions | ✅ All OK |
+| 42 | 30 | Nara Restaurants | ✅ All OK (般若寺 added manually) |
+
