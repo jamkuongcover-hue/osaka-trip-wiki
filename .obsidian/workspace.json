@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "71a1a6fab4b8e66c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07dd6a8f09a182f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167e83466965bc75",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "staging-assets/8th-sea-oyster/8th-sea-oyster-1.png"
+              },
+              "icon": "lucide-image",
+              "title": "8th-sea-oyster-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2be943a90b6f9f31",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6858a542360aa6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0b50ca127fb1840",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ce33f7324a4dcf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unagi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dda0be6654df88a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "ba2a5090afabf132",
+    "type": "split",
+    "children": [
+      {
+        "id": "990c89e70b9cfbca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28ca82246766996f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "staging-assets/8th-sea-oyster/8th-sea-oyster-1.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8th-sea-oyster-1"
+            }
+          },
+          {
+            "id": "3a915a6858c1ace0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PLAN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PLAN"
+            }
+          },
+          {
+            "id": "0e1def1e4cdd4233",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a84e04a0c5486a8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PLAN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PLAN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c0b50ca127fb1840",
+  "lastOpenFiles": [
+    "working-log.html",
+    "working-log-og-image.webp",
+    "tags/index.html",
+    "tags",
+    "static/giscus/light.css",
+    "static/giscus/dark.css",
+    "static/og-image.png",
+    "static/icon.png",
+    "static/giscus",
+    "static/contentIndex.json",
+    "static",
+    "sitemap.xml",
+    "prescript.js",
+    "postscript.js",
+    "place-checklist-og-image.webp",
+    "osaka-trip-plan-og-image.webp",
+    "master-checklist-og-image.webp",
+    "index-og-image.webp",
+    "blacklist-og-image.webp",
+    "README-og-image.webp",
+    "Osaka/租車物流研究-(Car-Rental-Logistics)-og-image.webp",
+    "Osaka/Shopping/BRULEE MERIZE Merchee (ブリュレメリゼ・メルチー).md",
+    "MAP_OPERATION_HANDBOOK.md",
+    "chain-stores-guide.md",
+    "README.md",
+    "place-checklist.md",
+    "Osaka/Hotels/THE BASEMENT HOTEL 大阪本町 (THE BASEMENT HOTEL Osaka Honmachi).md",
+    "working-log.md",
+    "osaka-trip-plan.md",
+    "Osaka/Attractions/osaka-attractions-catalog.md",
+    "Osaka/Shopping/日本夾公仔技巧 (UFO Catcher Skills).md",
+    "Osaka/Shopping/Super 玉出超市 (Super Tamade).md",
+    "Osaka/osaka-main-catalog.md",
+    "index.md",
+    "Osaka/Attractions/LOPIA (ロピア) 超市.md",
+    "Osaka/Attractions/道頓堀 (Dotonbori).md",
+    "Osaka/Attractions/萬博紀念公園 (Expo '70 Commemorative Park).md",
+    "Osaka/Attractions/黑門市場 (Kuromon Market).md",
+    "Osaka/Attractions/通天閣 (Tsutenkaku).md",
+    "Osaka/Attractions/堺市研究 (Sakai Study).md",
+    "Osaka/Attractions/勝尾寺 (Katsuo-ji).md",
+    "Osaka/Attractions/阿倍野展望台 (Abeno Harukas).md",
+    "Osaka/Attractions/阿倍野 Q's Mall (Abeno Q's Mall).md",
+    "Osaka/Attractions/天王寺動物園 (Tennoji Zoo).md",
+    "Osaka/Attractions/大阪市立美術館 (Osaka City Museum of Fine Arts).md",
+    "Osaka/Hotels/大阪本町柯蒂亞酒店 (Hotel Cordia Osaka Hommachi).md"
+  ]
+}
