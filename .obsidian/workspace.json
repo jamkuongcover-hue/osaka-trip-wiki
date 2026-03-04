@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a07dd6a8f09a182f",
+        "id": "e109e6c6a84384dc",
         "type": "tabs",
         "children": [
           {
-            "id": "167e83466965bc75",
+            "id": "5c66abaff9e8b8e2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "staging-assets/8th-sea-oyster/8th-sea-oyster-1.png"
+                "file": "Osaka/Shopping/Super 玉出超市 (Super Tamade).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "8th-sea-oyster-1"
+              "icon": "lucide-file",
+              "title": "Super 玉出超市 (Super Tamade)"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "staging-assets/8th-sea-oyster/8th-sea-oyster-1.png",
+                "file": "Osaka/Shopping/Super 玉出超市 (Super Tamade).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8th-sea-oyster-1"
+              "title": "Backlinks for Super 玉出超市 (Super Tamade)"
             }
           },
           {
@@ -166,10 +168,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0b50ca127fb1840",
+  "active": "5c66abaff9e8b8e2",
   "lastOpenFiles": [
-    "working-log.html",
+    "Kobe/README.md",
+    "Omihachiman/README.md",
+    "Koka/README.md",
+    "Osaka/Shopping/osaka-shopping-catalog.md",
+    "Osaka/租車物流研究-(Car-Rental-Logistics)-og-image.webp",
+    "chain-stores-guide.md",
+    "working-log.md",
     "working-log-og-image.webp",
+    "README.md",
+    "place-checklist-og-image.webp",
+    "place-checklist.md",
+    "osaka-trip-plan-og-image.webp",
+    "master-checklist-og-image.webp",
+    "MAP_OPERATION_HANDBOOK.md",
+    "index-og-image.webp",
+    "index.md",
+    "Osaka/osaka-main-catalog-og-image.webp",
+    "staging-assets/8th-sea-oyster/8th-sea-oyster-1.png",
+    "working-log.html",
     "tags/index.html",
     "tags",
     "static/giscus/light.css",
@@ -181,27 +200,13 @@
     "static",
     "sitemap.xml",
     "prescript.js",
-    "postscript.js",
-    "place-checklist-og-image.webp",
-    "osaka-trip-plan-og-image.webp",
-    "master-checklist-og-image.webp",
-    "index-og-image.webp",
-    "blacklist-og-image.webp",
-    "README-og-image.webp",
-    "Osaka/租車物流研究-(Car-Rental-Logistics)-og-image.webp",
     "Osaka/Shopping/BRULEE MERIZE Merchee (ブリュレメリゼ・メルチー).md",
-    "MAP_OPERATION_HANDBOOK.md",
-    "chain-stores-guide.md",
-    "README.md",
-    "place-checklist.md",
     "Osaka/Hotels/THE BASEMENT HOTEL 大阪本町 (THE BASEMENT HOTEL Osaka Honmachi).md",
-    "working-log.md",
     "osaka-trip-plan.md",
     "Osaka/Attractions/osaka-attractions-catalog.md",
     "Osaka/Shopping/日本夾公仔技巧 (UFO Catcher Skills).md",
     "Osaka/Shopping/Super 玉出超市 (Super Tamade).md",
     "Osaka/osaka-main-catalog.md",
-    "index.md",
     "Osaka/Attractions/LOPIA (ロピア) 超市.md",
     "Osaka/Attractions/道頓堀 (Dotonbori).md",
     "Osaka/Attractions/萬博紀念公園 (Expo '70 Commemorative Park).md",
@@ -210,9 +215,6 @@
     "Osaka/Attractions/堺市研究 (Sakai Study).md",
     "Osaka/Attractions/勝尾寺 (Katsuo-ji).md",
     "Osaka/Attractions/阿倍野展望台 (Abeno Harukas).md",
-    "Osaka/Attractions/阿倍野 Q's Mall (Abeno Q's Mall).md",
-    "Osaka/Attractions/天王寺動物園 (Tennoji Zoo).md",
-    "Osaka/Attractions/大阪市立美術館 (Osaka City Museum of Fine Arts).md",
-    "Osaka/Hotels/大阪本町柯蒂亞酒店 (Hotel Cordia Osaka Hommachi).md"
+    "Osaka/Attractions/阿倍野 Q's Mall (Abeno Q's Mall).md"
   ]
 }
