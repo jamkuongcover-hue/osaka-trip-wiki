@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Osaka/Attractions/道頓堀 (Dotonbori).md",
-                "mode": "source",
+                "file": "itinerary/Day6.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "道頓堀 (Dotonbori)"
+              "title": "Day6"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Osaka/Attractions/道頓堀 (Dotonbori).md",
+                "file": "itinerary/Day6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 道頓堀 (Dotonbori)"
+              "title": "Backlinks for Day6"
             }
           },
           {
@@ -170,27 +170,39 @@
   },
   "active": "5c66abaff9e8b8e2",
   "lastOpenFiles": [
-    "Osaka/Namba-Shinsaibashi.md",
-    "Osaka/Restaurants/道頓堀 (Dotonbori).md",
-    "Osaka/Attractions/道頓堀 (Dotonbori).md",
-    "Osaka/Attractions/道頓堀サウナ (Dotonbori Sauna).md",
-    "Osaka/osaka-main-catalog.md",
-    "Osaka/Tennoji-Area.md",
-    "Osaka/Umeda-Area.md",
-    "Osaka/Attractions/osaka-attractions-catalog.md",
-    "Osaka/README.md",
-    "index.md",
+    "Osaka/Restaurants/寿司屋のだ 天満市場店 (Sushiya Noda Tenma).md",
+    "Kyoto/Shopping/高木批發超市三條店 (Takagi Sanjo Store).md",
+    "Kyoto/Shopping/kyoto-shopping-catalog.md",
+    "Kyoto/Shopping",
+    "Osaka/Hotels/CANDEO HOTELS Osaka Namba.md",
+    "staging-assets/candeo-hotels-osaka-namba/amex-travel-online-6140.56.png",
+    "staging-assets/candeo-hotels-osaka-namba/agoda-1618.23.png",
+    "staging-assets/candeo-hotels-osaka-namba",
+    "Osaka/Restaurants/鮨 大和 (Sushi Yamato).md",
+    "staging-assets/sushi-yamato/sushi-yamato-1.jpg",
+    "staging-assets/sushi-yamato",
+    "Kyoto/Hotels/京都里士滿高級酒店四條 (Richmond Hotel Premier Kyoto Shijo).md",
+    "Osaka/Restaurants/牛たん炭火焼き 吉次 (Gyutan Yoshiji).md",
+    "Osaka/Shopping/大國藥妝 (Daikoku Drug).md",
+    "itinerary/Day5.md",
+    "itinerary/Day1.md",
+    "itinerary/Day2.md",
+    "itinerary/Day3.md",
+    "itinerary/Day4.md",
+    "itinerary/Day6.md",
+    "Osaka/Attractions/千林商店街 (Senbayashi).md",
+    "Osaka/Attractions/三井 Outlet Park 大阪門真 (Mitsui Outlet Park Osaka Kadoma).md",
+    "MAP_OPERATION_HANDBOOK.md",
+    "master-checklist.md",
+    "working-log.md",
     "README.md",
-    "Nara/README.md",
-    "Kyoto/README.md",
-    "Kobe/Arima-Onsen.md",
-    "Kobe/Sannomiya-Area.md",
-    "Kyoto/Station-Area.md",
-    "Kyoto/Arashiyama-Area.md",
-    "Kyoto/Gion-Area.md",
-    "Osaka/Bay-Area.md",
-    "Osaka/Attractions/心齋橋 (Shinsaibashi).md",
-    "Osaka/Hotels/osaka-hotels-catalog.md",
+    "place-checklist.md",
+    "osaka-trip-plan.md",
+    "Osaka/Shopping/愛店王 難波總店 (Aiten-Oh Namba).md",
+    "Osaka/Restaurants/家和らぎ (Yawaragi).md",
+    "Osaka/Restaurants/正念場 伸太 (Shonenba Shinta).md",
+    "itinerary/Day4_2026-04-28_Kyoto_Nature_and_Night.md",
+    "itinerary",
     "assets/osaka/attractions/dotonbori-glico.webp",
     "assets/nara/Restaurants/surugaya.webp",
     "assets/nara/Restaurants/shizuka-kamameshi.webp",
@@ -198,23 +210,11 @@
     "assets/nara/Attractions/todaiji.webp",
     "assets/nara/Attractions/nara-park.webp",
     "assets/nara/Attractions/nara-park-deer.webp",
-    "assets/nara/Attractions/kasuga-taisha.webp",
-    "Osaka/Shopping/OS Drug (オーエスドラッグ).md",
-    "Osaka/Shopping/LAMU 超市 (LAMU Konohana).md",
-    "Osaka/Restaurants/中華蕎麦 葛 (Chuka Soba Kuzu/Kazura).md",
-    "Osaka/Restaurants/麺に光を 別邸 (Ramen Menhika Branch).md",
-    "Osaka/Restaurants/鮨處 黑杉 (Sushi-dokoro Kurosugi).md",
     "Osaka/Restaurants/中華蕎麦 葛 (Chuka Soba Kuzu",
     "Nara/Attractions/東大寺 三月堂 (Todai-ji Sangatsu-do ",
-    "Osaka/租車物流研究-(Car-Rental-Logistics)-og-image.webp",
-    "working-log-og-image.webp",
     "working-log.html",
     "tags/index.html",
     "tags",
-    "static/giscus/light.css",
-    "static/giscus/dark.css",
-    "static/giscus",
-    "static/contentIndex.json",
-    "static"
+    "static/giscus/light.css"
   ]
 }
