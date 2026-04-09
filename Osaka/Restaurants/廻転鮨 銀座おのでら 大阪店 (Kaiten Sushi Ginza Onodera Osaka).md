@@ -4,7 +4,7 @@ category: "Restaurant"
 subcategory: "Sushi"
 status: "Confirmed"
 in_itinerary: true
-itinerary_day: 2
+itinerary_day: 1
 ---
 
 # 廻転鮨 銀座おのでら 大阪店 (Kaiten Sushi Ginza Onodera Osaka)

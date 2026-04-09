@@ -526,3 +526,10 @@
   - Return: UO899, 04-30 17:00 KIX T1 → 20:10 HKG T1 (無憂飛 Fare U)
   - Booking ref: OEF3SX
 - Recorded by Charlotte
+
+## 2026-04-09 12:56 HKT — Jam Itinerary Update (3 Changes)
+- **Change 1**: Day 1 晚餐取消貝バル Baccanale 預約 → 改為廻転鮨 銀座おのでら (原 Day 2 晚餐)
+- **Change 2**: Day 2 晚餐廻転鮨 銀座おのでら → 移至 Day 1，Day 2 晚餐暫定 TBD
+- **Change 3**: Day 3 (27號) 晚餐 → 已 book 壽喜燒餐廳（具體店名待確認）
+- Files updated: Day1.md, Day2.md, Day3.md, osaka-trip-plan.md, Onodera restaurant md (itinerary_day 2→1)
+- Note: 需要同 Jam 確認 Day 3 壽喜燒嘅具體餐廳名 + 貝バル 預約是否需要正式取消

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chain-stores-guide.md",
+                "file": "Osaka/Restaurants/廻転鮨 銀座おのでら 大阪店 (Kaiten Sushi Ginza Onodera Osaka).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chain-stores-guide"
+              "title": "廻転鮨 銀座おのでら 大阪店 (Kaiten Sushi Ginza Onodera Osaka)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chain-stores-guide.md",
+                "file": "Osaka/Restaurants/廻転鮨 銀座おのでら 大阪店 (Kaiten Sushi Ginza Onodera Osaka).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chain-stores-guide"
+              "title": "Backlinks for 廻転鮨 銀座おのでら 大阪店 (Kaiten Sushi Ginza Onodera Osaka)"
             }
           },
           {
@@ -170,18 +170,19 @@
   },
   "active": "5c66abaff9e8b8e2",
   "lastOpenFiles": [
+    "index.md",
+    "osaka-trip-plan.md",
+    "MAP_OPERATION_HANDBOOK.md",
+    "master-checklist.md",
+    "flights.md",
+    "itinerary/Day6.md",
+    "itinerary/Day2.md",
+    "itinerary/Day1.md",
+    "chain-stores-guide.md",
     "transport/toyota-rent-a-car.md",
     "transport",
     "Osaka/Restaurants/廻転鮨 銀座おのでら 大阪店 (Kaiten Sushi Ginza Onodera Osaka).md",
-    "flights.md",
-    "MAP_OPERATION_HANDBOOK.md",
-    "osaka-trip-plan.md",
-    "master-checklist.md",
     "Osaka/Restaurants/だしと小麦の可能性 (Dashi to Komugi no Kanousei).md",
-    "index.md",
-    "itinerary/Day1.md",
-    "chain-stores-guide.md",
-    "itinerary/Day6.md",
     "Osaka/Restaurants/寿司屋のだ 天満市場店 (Sushiya Noda Tenma).md",
     "Kyoto/Shopping/高木批發超市三條店 (Takagi Sanjo Store).md",
     "Kyoto/Shopping/kyoto-shopping-catalog.md",
@@ -197,7 +198,6 @@
     "Osaka/Restaurants/牛たん炭火焼き 吉次 (Gyutan Yoshiji).md",
     "Osaka/Shopping/大國藥妝 (Daikoku Drug).md",
     "itinerary/Day5.md",
-    "itinerary/Day2.md",
     "itinerary/Day3.md",
     "itinerary/Day4.md",
     "Osaka/Attractions/千林商店街 (Senbayashi).md",
