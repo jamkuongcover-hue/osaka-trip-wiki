@@ -1,7 +1,32 @@
 # Working Log - Osaka Trip
 
+## 2026-04-14 15:42 HKT — Zurich Renewal Reviewed + Osaka Trip Sync Follow-up
+- Task: review Zurich insurance mail/PDF, extract important details, correct the Osaka trip sync note, and refresh email identity ownership.
+- Zurich policy PDF extracted and reviewed:
+  - Product: **Helpersafe Domestic Helper Insurance Plan（傭易保）**
+  - Policyholder: **KUONG CHI KEI**
+  - Policy no.: **ZDH9007315ZC**
+  - Reference no.: **ZDH-26-11023290-002**
+  - Document type: **Renewal**
+  - Effective date shown: **2026-04-13**
+  - Period of insurance: **2026-04-13 to 2027-04-12** (inclusive)
+  - Correspondence / employment address: **RM/FLAT A, FLOOR 21, BLOCK 1, TRINITY TOWERS, 339 LAI CHI KOK ROAD, SHAM SHUI PO, KLN**
+  - Insurance info shown: **Employees' Compensation Insurance Plan – 1-Year Plan** + **Helpersafe Domestic Helper Insurance Plan**
+  - Premium breakdown: Basic Premium **HKD 315.88**, E.C. Levy **HKD 18.32**, ECIIB CONT **HKD 6.32**, EC TER SUR **HKD 9.48**, Total Premium **HKD 350.00**
+  - Customer service: **2968 2288** | Emergency assistance: **+852 2886 3977**
+  - Schedule note: if details are wrong, notify Zurich within **14 days after application date**.
+- Osaka trip sync clarification:
+  - Jam clarified `京阪遊2026` is the **current master plan to sync from**, not a standing permanent rule.
+  - Existing `osaka-trip` files already contain the confirmed `いろは北店` reservation on Day 3.
+  - Direct lookup of a personal trip calendar is still unresolved: `jamkuong@gmail.com` currently has Gmail scope only; `jamkuong.cover@gmail.com` calendar access did not expose a visible `京阪遊2026` calendar in current gog results.
+  - Work calendar `jam.kuong@gtomato.com` is accessible, but it only shows work events / working-location items, not the trip plan.
+- Identity ownership refreshed:
+  - Jam personal: `chikkuong2@gmail.com`, `jamkuong@gmail.com`
+  - Jam work: `jam.kuong@gtomato.com`
+  - Charlotte: `jamkuong.cover@gmail.com`
+- Recorded by Charlotte
+
 ## 2026-03-15 00:13 HKT — Kyoto 2-Night Agoda Segment Confirmed
-- Task: Reconcile the earlier hotel mismatch after Jam clarified that 2 of the 5 booked nights are in Kyoto, not Osaka.
 - Kyoto hotel confirmed from Agoda email: **Richmond Hotel premier KYOTO SHIJO**
 - Booking #: **1705383431**
 - Stay: **2026-04-27 → 2026-04-29** (2 nights, 2 rooms, 4 adults)

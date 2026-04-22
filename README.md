@@ -13,7 +13,7 @@
 
 ## 🗺️ Quick Summary (Sync with itinerary/)
 - Day 1: Arrival & Shinsaibashi
-- Day 2: Osaka City & Yawaragi Breakfast
+- Day 2: Osaka City & 家和らぎ Breakfast
 - Day 3: Move to Kyoto & Higashiyama
 - Day 4: Arashiyama & Fushimi Inari Night Tour
 - Day 5: Mitsui Outlet Park Kadoma

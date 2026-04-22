@@ -1,15 +1,10 @@
 # Day 2: 2026-04-26 (Sun) - 大阪市內精華遊
 
-- **06:00 早餐 yawaragi** (5:00 - 8:00am) 🍳 [[家和らぎ (Yawaragi)]]
-  - *Details*: 心齋橋附近嘅神級早餐，招牌出汁卷蛋非常嫩滑，鹽燒三文魚係父母最愛嘅口味。
-- **08:30 返酒店接埋太太出發** 🚗
+- **06:00 早餐 家和らぎ** (5:00 - 8:00am) 🍳 [[家和らぎ (Yawaragi)]]
+  - *Details*: 心齋橋附近神級早餐，亦係鄺太指定必去。
 - **09:00 大阪城 天守閣** 🏯 [[大阪城公園 (Osaka Castle Park)]]
-  - *Details*: 大阪城公園内有兩條小火車路線 (Road Train)：
-    - **森之宮線 (Morinomiya Line)**：由森之宮站出發，經過星巴克，到達極樂橋。
-    - **谷町線 (Tanimachi Line)**：由馬場町站出發，到達豐國神社前。
-    - **營運時間**：約 09:30 - 17:00，每 20 分鐘一班。
-    - **票價**：單程約 300 - 400 日圓，非常適合父母同小朋友，可以少行好多路。
-- **上午 黑門市場 OS Drug** (9:00 - 18:50) 🍣💊 [[黑門市場 (Kuromon Market)]]
+  - *Details*: 可考慮 Road Train，較適合同行長輩。
+- **10:00 黑門市場 + OS Drug** 🍣💊 [[黑門市場 (Kuromon Market)]]
 - **12:30 蟹道樂 網元本館 Lunch** 🦀✅ [[蟹道樂 網元本館 (Kani Doraku Amimoto)]]
   - *Status*: **已預約 CONFIRMED**
   - *Store*: 蟹道樂 網元本館 (Amimoto Honkan)
@@ -24,10 +19,12 @@
   - *Map*: https://maps.app.goo.gl/1qnr9dpd2PnvebBv9
   - *Change/Cancel*: https://booking.ebica.jp/webrsv/booked/info/422004877?site_code=e014006701&shop_id=3835&auth_key=abfb51cd99829a4ae93dd7f511349a94494df49d6292aab8a8952ad1fb58e45a006f6ccd26d74036a3ae7a6dd49c23ba7309948c5c02677cafb8ac186176903e&language=en
   - *Note*: 遲到超過 30 分鐘無聯絡會被取消
-- **下午 日本橋電器街** 🤖
-- **下午 愛店王 難波總店** 🎮 [[愛店王 難波總店 (Aiten-Oh Namba)]]
-- **傍晚 通天閣 & 新世界本通商店街** 🗼 [[通天閣 (Tsutenkaku)]]
+- **14:30 日本橋電器街** 🤖 [[日本橋電器街]]
+- **15:30 愛店王 難波總店** 🎮 [[愛店王 難波總店 (Aiten-Oh Namba)]]
+- **16:30 通天閣 & 新世界** 🗼 [[通天閣 (Tsutenkaku)]]
 - **19:00 阿倍野 HARUKAS** 🏙️ [[阿倍野展望台 (Abeno Harukas)]]
-- **20:00 晚餐：TBD** 🍽️
-  - *Note*: 原定迴轉壽司已移至 Day 1 晚餐
+- **20:00 晚餐：通天閣附近大阪燒** 🍽️
+  - *Status*: user confirmed area preference
+  - *Area*: 通天閣 / 新世界附近
+  - *Cuisine*: 大阪燒
 - **住大阪**
